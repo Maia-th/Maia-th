@@ -20,5 +20,3 @@
 <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:thiagomaia633@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/Maia-th/Maia-th/blob/output/github-contribution-grid-snake.svg)
