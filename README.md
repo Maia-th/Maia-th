@@ -1,6 +1,6 @@
-<div align="center">
-  
-  ## Welcome!
+## Olá, bem-vido ao meu perfil!  
+
+<div align="center">  
 <div style="display: flex">
   <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=dark"/>
   <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
