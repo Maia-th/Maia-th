@@ -1,4 +1,6 @@
-## Welcome!
+<div align="center">
+  
+  ## Welcome!
 <div style="display: flex">
   <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=dark"/>
   <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
@@ -21,4 +23,5 @@
 <a href="https://www.linkedin.com/in/maiath/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a> 
 <a href = "mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
+</div>
 </div>
