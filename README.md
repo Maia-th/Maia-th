@@ -1,7 +1,7 @@
 ## Welcome!
 <div>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Maia-th&show_icons=true&theme=dark"/>
-  <img height="180em" width= "500px" src= "https://github-readme-streak-stats.herokuapp.com?user=Maia-th&theme=dark&mode=weekly"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
