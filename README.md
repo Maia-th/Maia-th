@@ -2,8 +2,8 @@
 
 <div align="center">  
 <div style="display: flex">
-  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs&exclude_repo=Git-Stats-Maia,issues&theme=dark"/>
-  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
+  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
