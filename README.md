@@ -1,7 +1,7 @@
 ## Welcome!
 <div style="display: flex">
-  <img height="180em" width="440em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=dark"/>
-  <img height="180em" width="440em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
+  <img height="180em" width="430em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=dark"/>
+  <img height="180em" width="430em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
