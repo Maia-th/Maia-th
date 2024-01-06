@@ -2,8 +2,8 @@
 
 <div align="center">  
 <div style="display: flex">
- <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
-  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/></a>{target="_blank"}
 </div>
 
 <div style="display: inline_block"><br><a href="https://github.com/Maia-th?tab=repositories">
