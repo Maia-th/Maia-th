@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-<img width="450px" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&bg_color=00000000&theme=dark"/>
-<img width="350px" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&bg_color=00000000&theme=dark"/>
+<img width="450px" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+<img width="350px" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
 <h3>SKILLS</h3>
 <div><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
