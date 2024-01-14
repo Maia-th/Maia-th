@@ -7,7 +7,8 @@
 <div align="center">  
 <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
 <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
-<div style="display: inline_block"><br>
+<h3>SKILLS</h3>
+<div><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
