@@ -5,10 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maia-th&bg_color=000000&color=23d100&line=23d100&point=11ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<div style="display: flex">
-  <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
-  <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
-</div>
+<img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+<img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
 <div style="display: inline_block"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
