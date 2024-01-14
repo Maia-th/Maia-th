@@ -1,11 +1,14 @@
-## Olá, bem-vindo ao meu perfil !  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maia-th&bg_color=000000&color=23d100&line=23d100&point=11ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <div style="display: flex">
-  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
-  <img height="180em" width="420em" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
+  <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+  <img width="41%" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,3 +28,5 @@
 <a href = "mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
 </div>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
