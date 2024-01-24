@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa500&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)
 
 <div align="center">  
-<img width="450px" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
+<img width="450px" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
 <img width="350px" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
 <h3>SKILLS</h3>
 <div><br>
