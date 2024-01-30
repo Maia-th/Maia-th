@@ -18,12 +18,7 @@
 </div>
 
 ##
-
-<div> 
-<a href="https://www.linkedin.com/in/maiath/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a> 
 <a href = "mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
-</div>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=footer"/>
