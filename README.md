@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;Full+Stack+Developer.;Be+Welcome!)
 
 <h2 align="center">ABOUT ME</h2>
 
