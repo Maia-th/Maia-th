@@ -2,22 +2,26 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Maia.;I'm+21+years+old.;Be+Welcome!)
 
+<h2 align="center">ABOUT ME</h2>
+
+> STATS
 <div align="center">  
 <img width="450px" height="195px" src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&rank_icon=github&include_all_commits=true&show_icons=true&hide=contribs,issues&exclude_repo=Git-Stats-Maia&theme=dark"/>
-<img width="350px" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
-<h3>SKILLS</h3>
-<div><br>
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
 </div>
 
-##
+> LANGUAGES
+<div align="center">
+<img width="350px" height="195px" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&exclude_repo=Git-Stats-Maia&theme=dark"/>
+</div>
+
+> MAIN SKILLS
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mysql,python" />
+</div>
+
+####
+> CONTACT
+<div align="center">
 <a href = "mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
 </div>
 
