@@ -16,7 +16,7 @@
 
 > MAIN SKILLS
 <div align="center">
-<img margin-top:50px src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mysql,python,flask&perline=5" />
+<img margin-top:50px src="https://skillicons.dev/icons?i=react,vue,js,ts,css,nodejs,express,mysql,python,flask&perline=5" />
 </div>
 
 ####
