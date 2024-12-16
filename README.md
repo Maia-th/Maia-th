@@ -7,11 +7,8 @@
 > STATS
 <div align="center">  
 <img src= "https://git-stats-maia.vercel.app/api?username=Maia-th&hide_border=true&rank_icon=github&include_all_commits=true&show_icons=true&hide=contribs,issues&theme=dark"/>
-</div>
-
-> LANGUAGES
-<div align="center">
-<img src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=pie&theme=dark&hide=Jupyter%20Notebook,html"/>
+<img height="150" width="300" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&theme=dark&hide=Jupyter%20Notebook,html"/>
+  
 </div>
 
 > MAIN SKILLS
