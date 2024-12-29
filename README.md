@@ -8,7 +8,7 @@
 
 <div align="center">  
 <img width=400 src="https://streak-stats.demolab.com?user=Maia-th&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark">
-<img height="155" width="300" src= "https://git-stats-maia.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&theme=dark&hide=Jupyter%20Notebook,html"/>
+<img height="155" width="300" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Maia-th&hide_border=true&layout=compact&theme=dark&hide=Jupyter%20Notebook,html"/>
 </div>
 <br>
 
