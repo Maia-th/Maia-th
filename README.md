@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=100&section=header"/>
-
-## 🧾 Maia `.Th`
+## 🧾 Developer Profile - `Maia.Th`
 
 ```json
 {
@@ -19,7 +17,7 @@
 }
 ```
 
-## 🧰 Tecnologias
+## 🧰 Skills
 
 <div align="center">
 
@@ -42,5 +40,3 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=100&section=footer"/>
