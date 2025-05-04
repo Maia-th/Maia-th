@@ -2,14 +2,14 @@
 
 ```json
 {
-  "descricao": "Desenvolvedor Front-End focado em React, Next.js e tecnologias modernas do JavaScript.",
+  "description": "Desenvolvedor Front-End focado em React, Next.js e tecnologias modernas do JavaScript.",
   "dev_profile": {
-    "nome": "Thiago Maia",
+    "name": "Thiago Maia",
     "stack": ["React", "Next.js", "TypeScript"],
     "backend": ["Node.js", "Python"],
-    "banco_dados": ["MySQL", "Firebase"],
-    "diferenciais": ["UX/UI", "código escalável"],
-    "contato": {
+    "database": ["MySQL", "Firebase"],
+    "highlights": ["UX/UI", "código escalável"],
+    "contact": {
       "gmail": "mailto:thiagomaia633@gmail.com",
       "linkedin": "https://www.linkedin.com/in/maiath"
     }
