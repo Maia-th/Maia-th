@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&duration=4000&pause=4000&color=ff8c00&width=1000&lines=Welcome+to+my+GitHub+profile!)
 
-## 🧾 Developer Profile - `Maia.Th`
+## 🧾 Developer - `Maia.Th`
 
 ```json
 {
