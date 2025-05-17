@@ -8,7 +8,7 @@
   "dev_profile": {
     "name": "Thiago Maia",
     "stack": ["React", "Next.js", "TypeScript"],
-    "backend": ["Node.js", "Python"],
+    "backend": ["Node.js", "Express"],
     "database": ["MySQL", "Firebase"],
     "highlights": ["UX/UI", "código escalável"],
     "contact": {
