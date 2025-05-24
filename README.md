@@ -12,9 +12,9 @@
     "database": ["MySQL", "Firebase"],
     "highlights": ["UX/UI", "código escalável"],
     "contact": {
+      "Portfolio": "https://maia-th.me/",
       "gmail": "mailto:thiagomaia633@gmail.com",
       "linkedin": "https://www.linkedin.com/in/maiath"
-      "Portfolio": "https://maia-th.me/",
     }
   }
 }
