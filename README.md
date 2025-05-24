@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&duration=4000&pause=4000&color=ff8c00&width=1000&lines=Welcome+to+my+GitHub+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&color=ff8c00&width=1000&lines=System+booting...;Loading+Hello,+World!;>_Ready+to+code.)
 
 ## 🧾 Developer - `Maia.Th`
 
@@ -14,6 +14,7 @@
     "contact": {
       "gmail": "mailto:thiagomaia633@gmail.com",
       "linkedin": "https://www.linkedin.com/in/maiath"
+      "Portfolio": "https://maia-th.me/",
     }
   }
 }
@@ -41,3 +42,19 @@
 
 </div>
 
+## 📬 Contact
+
+<div align="center">
+  <a href="https://maia-th.me/"><img src="https://img.shields.io/badge/%3C%2F%3E Portfolio-black?style=for-the-badge&logoColor=FF8C00&labelColor=000000&color=000000" alt="Portfolio Badge"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maiath"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
+<br>
+<br>
+
+> <div align="center">
+  > 🚀 Always learning. Always building. 🚀
+</div>
