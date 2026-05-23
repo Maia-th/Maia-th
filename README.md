@@ -16,7 +16,7 @@
     ],
     "contact": {
       "Email": "thiagomaia633@gmail.com",
-      "Portfolio": "https://maia-th.me/",
+      "Portfolio": "https://maia-th.vercel.app",
       "linkedin": "https://www.linkedin.com/in/maiath"
     }
   }
@@ -46,7 +46,7 @@
 ## 📬 Contact
 
 <div align="center">
-  <a href="https://maia-th.me/"><img src="https://img.shields.io/badge/%3C%2F%3E Portfolio-black?style=for-the-badge&logoColor=FF8C00&labelColor=000000&color=000000" alt="Portfolio Badge"/></a>
+  <a href="https://maia-th.vercel.app/"><img src="https://img.shields.io/badge/%3C%2F%3E Portfolio-black?style=for-the-badge&logoColor=FF8C00&labelColor=000000&color=000000" alt="Portfolio Badge"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:thiagomaia633@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   &nbsp;&nbsp;&nbsp;
